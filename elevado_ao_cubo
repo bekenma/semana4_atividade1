@@ -1,0 +1,2 @@
+variavel_x = int(input(""))
+print(f'{variavel_x**3}')
